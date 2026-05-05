@@ -1,0 +1,6 @@
+{
+  "name": "VisionCanvas",
+  "description": "An infinite canvas for automated business modeling and visualization powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
